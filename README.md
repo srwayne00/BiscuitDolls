@@ -1,8 +1,5 @@
 <h1> BiscuitDolls-with-HTML-PHP-CSS-BOOTSTRAP </h1>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/gp/188964866@N08/BDg485" title="Sobre"><img src="https://live.staticflickr.com/65535/50006089476_7943c8e7fb_b.jpg" width="1024" height="739" alt="Sobre"></a>
-
-
 <h5>Site  desenvolvido em html no SublimeText3 utilizando o framework Bootstrap 4,<br>
 ja com a extenção php para desenvolvimento do backend, porém ainda estou estudando o php para implementa-lo..</h5>
 
